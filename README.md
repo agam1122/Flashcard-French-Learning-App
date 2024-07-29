@@ -30,7 +30,7 @@ cd Flashcard-French-Learning-App
 
 2. Install the required libraries:
     ```bash
-    pip install requests pandaa
+    pip install requests pandas
     ```
 
 
