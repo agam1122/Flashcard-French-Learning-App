@@ -39,7 +39,8 @@ cd Flashcard-French-Learning-App
 Ensure you have the following files in the project directory:
 
   - french_words.csv: Contains the list of French words and their English translations.
-  - card_front.png, card_back.png, wrong.png, right.png: Images used in the application.
+  - card_front.png, card_back.png, wrong.png, right.png: Images used in the application
+
 
 
     
