@@ -23,13 +23,13 @@ Make sure you have the following installed:
 
 1. Clone the repository:
 
-```bash
+```
 git clone https://github.com/agam1122/Flashcard-French-Learning-App.git
 cd Flashcard-French-Learning-App
 ```
 
 2. Install the required libraries:
-    ```bash
+    ```
     pip install requests pandas
     ```
 
